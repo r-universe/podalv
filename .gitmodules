@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ACEsearch"]
+	path = ACEsearch
+	url = https://github.com/cran/ACEsearch
+	shallow = true
+	registered = true
+[submodule "atlas"]
+	path = atlas
+	url = https://github.com/cran/atlas
+	shallow = true
+	registered = true
